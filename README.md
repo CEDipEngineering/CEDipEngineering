@@ -38,9 +38,11 @@ I'm fluent in both english and portuguese, and have beginner level spanish.
 If you'd like to reach out to me about anything, you can email me with the button bellow, or at cadudip@hotmail.com or carlos.dip@digiage.com.br. I'm also on [LinkedIn](https://www.linkedin.com/in/cedipengineering/).
 
 <br />
-<br />
+
 Last updated 24/04/2024
+
 ---
+
 
 ## My top languages
 
