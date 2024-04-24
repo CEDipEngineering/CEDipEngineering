@@ -17,26 +17,29 @@ Here are some ideas to get you started:
 
 ## About me
 
-My name is Carlos Dip. I'm a computer engineer (currently 7th semester in college).
+My name is Carlos Dip. I'm a computer engineer, currently employed at [Digiage](https://www.digiage.com.br/en-us/) as a Mid-Level Data Scientist.
 
-I'm quite familiar with lots of programming languages, and have implemented many projects from scratch, most of which you can see here in Github.
+I have a lot of experience working with Azure and Databricks, and have participated in several projects involving Data Engineering and Data Science. Some of the project's topics include Generative AI, Computer Vision, and different forms of Data Analysis/Visualisation for Business Applications.
 
-My main language is Python, often in Jupyter Notebook environments, however I'm familiar with JavaScript/CSS/HTML, Java, C, VHDL, and a few others. I have used many famous frameworks in the past for applied projects, such as MySQL, Django, NodeJS+React, MongoDB, FastAPI, and some others.
+I'm quite familiar with lots of programming languages, and have implemented many projects from scratch, many of which you can see here in Github.
+
+My main language is Python, often in Jupyter Notebook environments, however I'm familiar with SQL, JavaScript/CSS/HTML, Java, C, VHDL, and a few others. I have used many famous frameworks in the past for applied projects, such as MySQL, Django, NodeJS+React, MongoDB, FastAPI, and some others.
 
 I have worked with many Machine Learning projects, such as Naive Bayes sentiment classification, Random Forest iamge classifiers, and Convolutional Neural Networks for image processing (alongside other traditional computer vision algorithms) 
 
 I have also worked with Cloud infrastructure deployment (both manually and developed fully automated boto3 python scripts) on AWS.
 
+I'm fluent in both english and portuguese, and have beginner level spanish.
+
 ---
 
 ## 📫 How to reach me:
 
-If you'd like to reach out to me about anything, you can email me with the button bellow, or at cadudip@hotmail.com.
+If you'd like to reach out to me about anything, you can email me with the button bellow, or at cadudip@hotmail.com or carlos.dip@digiage.com.br. I'm also on [LinkedIn](https://www.linkedin.com/in/cedipengineering/).
 
-[<img align="left" alt="My Email" width="28px" style="background-color:white;padding:4px;border: 2px solid grey;border-radius: 10px;" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/microsoftoutlook.svg" />](mailto:cadudip@hotmail.com)
 <br />
 <br />
-
+Last updated 24/04/2024
 ---
 
 ## My top languages
